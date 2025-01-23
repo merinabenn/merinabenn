@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merinabenn
-- 👀 I’m interested in designing good User Expereincs for people
+- 👀 I’m interested in designing good User Experiences for people on the web
 - 🌱 I’m currently learning SQL to better analyse Data
 - 💞️ I’m looking to collaborate on tech projects that need better thought out and iterated services and design 
 - 📫 How to reach me merinabenn@gmail.com - quickest way 
